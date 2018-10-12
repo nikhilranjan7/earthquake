@@ -20,7 +20,7 @@ This will be government enabled solution which will give warning via sms to all 
 The solution can be easily scaled to multiple sensors and could perform real-time monitoring in active tectonic zones or serve as the foundation of an early earthquake warning system.
 
 #### How practical is it to build your product? 
-The solution builds on the research work of [Harvard and Google](https://www.nature.com/articles/s41586-018-0438-y), which created an AI model capable of predicting the location of aftershocks up to one year after a major earthquake.
+The solution builds on the research work by [Harvard and Google](https://www.nature.com/articles/s41586-018-0438-y), which created an AI model capable of predicting the location of aftershocks up to one year after a major earthquake.
 
 
 
